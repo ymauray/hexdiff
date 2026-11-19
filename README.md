@@ -1,6 +1,7 @@
 # HexDiff
 
 [![Licence : MIT](https://img.shields.io/github/license/ymauray/hexdiff)](LICENSE)
+[![repocheck](https://img.shields.io/badge/repocheck%201.3.0-83%2F100-green)](https://github.com/ymauray/repocheck)
 
 Comparateur hexadécimal de deux fichiers binaires, avec sortie HTML interactive.
 
