@@ -1,5 +1,7 @@
 # HexDiff
 
+[![Licence : MIT](https://img.shields.io/github/license/ymauray/hexdiff)](LICENSE)
+
 Comparateur hexadécimal de deux fichiers binaires, avec sortie HTML interactive.
 
 ## Utilisation
